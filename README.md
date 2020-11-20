@@ -1,7 +1,8 @@
 # golden-circle-packing
-generates Fibonacci sequence circles using image processing
+generates Fibonacci sequence circles using image processing | Rust | JS Visualize
+> **STATUS** Work in Progres
 
-> **WARNING** Computer Intensive | Work in Progress
+> **WARNING** Computer Intensive (Multithreaded)
 
 #### Output:
 ```
@@ -20,7 +21,9 @@ RAW Image             | Generated Circles
 
 ### To Run
 > Install Rust
+
 > Install VS Code / Live Server Extension
+
 > install git
 ```
 git clone http://github.com/jacobzwang/golden-cricle-packing.git
@@ -35,3 +38,8 @@ cargo run --release
 > http://localhost:5500
 
 > circles will appear as the are generated
+
+### To Do
+> Wasm Bindgen for web use
+
+> impliment Lloyd's algorithm
