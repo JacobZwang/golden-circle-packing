@@ -1,5 +1,5 @@
 # golden-circle-packing
-generates Fibonacci sequence circles using image processing | Rust image::DynamicImage| JS Visualizer
+generates Fibonacci sequence circles using image processing | Rust image::DynamicImage | JS Visualizer
 > **STATUS** Work in Progres
 
 > **WARNING** Computer Intensive (Multithreaded)
