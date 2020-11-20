@@ -42,7 +42,7 @@ cargo run --release
 ```
 > http://localhost:5500
 
-> circles will appear as the are generated
+> circles will appear as they are generated
 
 ### To Do
 > Wasm Bindgen for web use
