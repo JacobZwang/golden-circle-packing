@@ -9,3 +9,7 @@ edition = "2018"
 [dependencies]
 image = "^0"
 wasm-bindgen = "0.2.68"
+serde = "*"
+serde_json = "*"
+serde_derive = "*"
+rayon = "1.5.0"
