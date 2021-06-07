@@ -2,8 +2,6 @@
 Generates Fibonacci Sequence Circles Using Image Processing | Rust image::DynamicImage | JS HTML Canvas (for output viz)
 > **STATUS** Work in Progres
 
-> **WARNING** Computer Intensive (Multithreaded)
-
 #### Output:
 ```
 [circle-position-x, circle-position-y, circle-radius, [r,g,b,a]]
